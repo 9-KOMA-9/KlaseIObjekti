@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\KlaseiObjekti12\bin\Debug\KlaseiObjekti12.exe.config
+C:\Users\ucenik\source\repos\KlaseiObjekti12\bin\Debug\KlaseiObjekti12.exe
+C:\Users\ucenik\source\repos\KlaseiObjekti12\bin\Debug\KlaseiObjekti12.pdb
+C:\Users\ucenik\source\repos\KlaseiObjekti12\obj\Debug\KlaseiObjekti12.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\KlaseiObjekti12\obj\Debug\KlaseiObjekti12.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\KlaseiObjekti12\obj\Debug\KlaseiObjekti12.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\KlaseiObjekti12\obj\Debug\KlaseiObjekti12.exe
+C:\Users\ucenik\source\repos\KlaseiObjekti12\obj\Debug\KlaseiObjekti12.pdb
